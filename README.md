@@ -7,7 +7,7 @@ I hope that this year I'll finally finish all the tasks, but we'll see.
 ## Solved
 
 - [x] Day 1
-- [ ] Day 2
+- [x] Day 2
 - [ ] Day 3
 - [ ] Day 4
 - [ ] Day 5
