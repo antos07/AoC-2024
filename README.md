@@ -18,7 +18,7 @@ I hope that this year I'll finally finish all the tasks, but we'll see.
 - [x] Day 10
 - [x] Day 11
 - [x] Day 12
-- [ ] Day 13
+- [x] Day 13
 - [ ] Day 14
 - [ ] Day 15
 - [ ] Day 16
